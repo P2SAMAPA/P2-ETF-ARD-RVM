@@ -2,7 +2,7 @@ name: Daily ARD‑RVM Run
 
 on:
   schedule:
-    - cron: '20 03 * * 1-5'
+    - cron: '20 02 * * 1-6'
   workflow_dispatch:
 
 jobs:
